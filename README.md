@@ -6,6 +6,6 @@ Linux: ~/.config/mpv/
 
 Windows: {Direktori anda mengemaskini mpv}\mpv\
 
-## Sumbanga
+## Sumbangan
 
 https://hajiamzar.com/sumbangan/
